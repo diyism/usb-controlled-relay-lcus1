@@ -2,6 +2,8 @@
 for LCUS-1 5V USB Relay Module CH340 USB Control Switch **in LINUX**
 
 ![](LCUS-1.png)
+![](a.jpg)
+![](b.jpg)
 
 Baud Rate: 9600bps
 
