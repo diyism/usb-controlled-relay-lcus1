@@ -2,8 +2,6 @@
 for LCUS-1 5V USB Relay Module CH340 USB Control Switch **in LINUX**
 
 ![](LCUS-1.png)
-![](a.jpg)
-![](b.jpg)
 
 Baud Rate: 9600bps
 
@@ -15,3 +13,6 @@ Baud Rate: 9600bps
 		   without param: Turn the relay on, sleep 1 second, and turn the relay off
 
 	Usage: ./opendoor.sh
+
+![](a.jpg)
+![](b.jpg)
