@@ -12,4 +12,4 @@ Baud Rate: 9600bps
 		   1: Turn the Relay On(connect NO and COM)
 		   without param: Turn the relay on, sleep 1 second, and turn the relay off
 
-        Usage: ./opendoor.sh
+	Usage: ./opendoor.sh
